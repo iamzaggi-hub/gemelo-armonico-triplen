@@ -85,3 +85,7 @@ Kinetic Vision Forensic Lab – Chile
 📧 iamzaggi@gmail.com · ORCID: 0009-0004-8127-1933  
 
 *“El tiempo no transcurre: se acumula. Cada día recibimos 56 segundos de eternidad.”*
+## DOI / Citable reference
+
+This work has been permanently archived in Zenodo:  
+[https://doi.org/10.5281/zenodo.19952835](https://doi.org/10.5281/zenodo.19952835)
