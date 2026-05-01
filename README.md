@@ -22,10 +22,13 @@ Este repositorio contiene una implementación HTML/CSS/JS que reproduce las tabl
 
 | Archivo | Descripción |
 |---------|-------------|
-| `index.html` | Visualizador de la falla: tablas con ángulos en gones, tiempos propios, frecuencias y armónicos. |
-| `assets/style.css` | Estilos responsivos para laboratorio (opcional, aunque ya incluido en el HTML). |
+| `ARMONICOS_ZAGGI_CERN.HTML` | Visualizador de la falla: tablas con ángulos en gones, tiempos propios, frecuencias y armónicos. |
+| `CERN_FAIL_ZAGGI.html` |  Visualizador fLHCb para Anomalía de 4.2σ (1/16.000), implementa el Informe de datos metrológicos extraídos de parámetros públicos del CERN, de forma didáctica  |
 | `LICENSE` | Licencia de uso exclusivo para el CERN (ver más abajo). |
 | `README.md` | Este archivo. |
+|Certificados-Copyrigth| Registros chilenos de propiedad intelctual registrada en 2024, a nombre de ZAGGI (seudónimo)
+|Simuladores| Carpeta con imagenes y simuladores en formato HTML, gemeelos de fallo y aplicación de corrección.
+|TSA-Sello de Tiempo| Archivos de certificación y autenticidad de los documentos bajo modelo Time Stamping TSA. (Notario Digital)
 
 ---
 
