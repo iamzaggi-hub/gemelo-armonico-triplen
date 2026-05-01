@@ -1,4 +1,6 @@
 # gemelo-armonico-triplen · Análisis de la anomalía 4.2σ (LHCb / CERN)
+## DOI / Citable reference
+This work has been deposited in Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19952835.svg)](https://doi.org/10.5281/zenodo.19952835)
 
 **Gemelo digital para visualización y verificación metrológica de la falla armónica triplen (16.725, 836.25 kHz) identificada en los datos públicos del detector LHCb.**
 
