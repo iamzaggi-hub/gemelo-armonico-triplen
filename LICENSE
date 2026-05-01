@@ -1,21 +1,34 @@
-MIT License
+EN
+EXCLUSIVE USE LICENSE FOR CERN AND PROHIBITION OF COMMERCIAL EXPLOITATION
 
-Copyright (c) 2026 ZAGGI
+Copyright (c) 2026 Francisco J. Zapata García (ZAGGI) – Kinetic Vision Forensic Laboratory, Chile
+ISSN 0710-4349 – Intellectual Property Registrations No. 2024-A-10366 and 2024-A-10500.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository and all its content (HTML code, data tables, analysis methodology, derived ε_CERN constants, identification of the 16.725 harmonic, and technical recommendations) are made available to CERN **solely for internal verification, electromagnetic compatibility testing, and study of the 4.2σ anomaly reported in April 2026**.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+No license is granted for:
+- Commercial, industrial, or any economic exploitation. - Operational implementation in the LHCb data acquisition system without an additional written agreement.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- Distribution or reproduction of the phase correction method (Riemannian DAC) or the hybrid filter design without attribution and express authorization.
+
+CERN may circulate this document among its technical teams, citing the source and respecting the integrity of the content. For any other use (including collaborations with third parties or implementation in subsystems), the author must be contacted to obtain a specific license.
+
+Contact: iamzaggi@gmail.com
+__________________________________________________________________________________
+
+ES
+LICENCIA DE USO EXCLUSIVO PARA EL CERN Y PROHIBICIÓN DE EXPLOTACIÓN COMERCIAL
+
+Copyright (c) 2026 Francisco J. Zapata García (ZAGGI) – Kinetic Vision Forensic Lab, Chile  
+ISSN 0710-4349 – Registros de Propiedad Intelectual Nro. 2024-A-10366 y 2024-A-10500.
+
+Este repositorio y todo su contenido (código HTML, tablas de datos, metodología de análisis, constantes derivadas ε_CERN, identificación del armónico 16.725 y las recomendaciones técnicas) se ponen a disposición del CERN **únicamente con fines de verificación interna, pruebas de compatibilidad electromagnética y estudio de la anomalía de 4.2σ reportada en abril de 2026**.
+
+No se concede ninguna licencia para:
+- Uso comercial, industrial o cualquier explotación económica.  
+- Implementación operativa en el sistema de adquisición de datos del LHCb sin un acuerdo escrito adicional.  
+- Distribución o reproducción del método de corrección de fase (DAC Riemanniano) o del diseño de filtros híbridos sin atribución y autorización expresa.
+
+El CERN puede circular este documento entre sus equipos técnicos, citando la fuente y respetando la integridad del contenido. Para cualquier otro uso (incluyendo colaboraciones con terceros o implementación en subsistemas), debe contactarse al autor para obtener una licencia específica.
+
+Contacto: iamzaggi@gmail.com
