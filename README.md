@@ -37,7 +37,7 @@ Este repositorio contiene una implementación HTML/CSS/JS que reproduce las tabl
 1. **Clona el repositorio**  
    `git clone https://github.com/iamzaggi-hub/gemelo-armonico-triplen.git`
 
-2. **Abre el archivo** `index.html` en cualquier navegador moderno.
+2. **Abre el archivo** `ARMONICOS_ZAGGI_CERN.HTML` y `CERN_FAIL_ZAGGI.html` en cualquier navegador moderno.
 
 3. **Interactúa con los datos:**  
    - Observa la correspondencia entre apertura, error angular y constante ε_CERN.  
